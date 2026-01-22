@@ -8,7 +8,7 @@ LitLens is an AI-powered research lab that turns academic papers into clear, act
 
 - Get structured responses with inline citations, so every insight is grounded in real sources.
 
-- Compare two papers across methodology, results, strengths, and weaknesses in seconds.- - -
+- Compare two papers across methodology, results, strengths, and weaknesses in seconds.
 - Generate concise summaries, critical reviews, and future research directions using multi-agent AI reasoning.
 
 ### How to get Started?
