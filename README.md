@@ -16,8 +16,7 @@ LitLens is an AI-powered research lab that turns academic papers into clear, act
 1. Clone the GitHub repository
 
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd awesome-llm-apps/chat_with_X_tutorials/chat_with_research_papers
+git clone https://github.com/DwaipayanChatterjee/LitLens.git
 ```
 2. Install the required dependencies:
 
@@ -30,5 +29,5 @@ pip install -r requirements.txt
 
 4. Run the Streamlit App
 ```bash
-streamlit run chat_arxiv.py
+streamlit run chat_with_research_papers.py
 ```
